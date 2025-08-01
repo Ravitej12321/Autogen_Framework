@@ -1,0 +1,12 @@
+pydantic
+autogen-agentchat
+ipykernel
+python-dotenv
+requests
+autogen-ext[openai]
+autogen-core
+autogenstudio
+autogen-ext[docker]
+autogen-ext[langchain]
+ddgs
+langchain-community

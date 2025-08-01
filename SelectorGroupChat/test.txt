@@ -1,0 +1,6 @@
+machine learning
+hyderabad.
+torch, keras, tensorflow.
+60 to 90 
+5/25
+1100000

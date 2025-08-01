@@ -1,0 +1,1 @@
+DataAnalyzer_prompt = "You are Data Analyser Agent who solves Data Analysis Task in python and Gives python Code. "

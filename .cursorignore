@@ -1,0 +1,9 @@
+# Cursor ignore file
+# Add files/directories for Cursor to ignore
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+*.log 
